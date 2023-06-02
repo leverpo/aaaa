@@ -1,6 +1,5 @@
 {
-    "ads" : [
-        {
+    "ads": {
             "update_app" : false,
             "activate_ads" : false,
             "activate_banner" : "on",
@@ -53,8 +52,8 @@
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
-        }
-    ],
+        },
+
 
     "more" : [
         {
